@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">AndroidEcommerce</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_login">Login</string>
+    <string name="prompt_nom">Nom</string>
+    <string name="prompt_prenom">Prénom</string>
+    <string name="prompt_tel">Télephone</string>
+    <string name="prompt_date">Date de naissance</string>
+    <string name="prompt_adresse">Adresse</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_up">Register</string>
+    <string name="action_create_account">Créer un nouveau compte</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_signup">Sign up</string>
+    <string name="title_activity_client">ClientActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_catalogue">CatalogueActivity</string>
+    <string name="title_activity_commande">Commander</string>
+    <string name="catalogues">Catalogues</string>
+    <string name="produits">Produits</string>
+    <string name="commandes">Commandes</string>
+    <string name="profil">Profil</string>
+    <string name="logout">Logout</string>
+    <string name="ajouter">Ajouter</string>
+    <string name="select_livreur">Séléctionner un livreur</string>
+    <string name="adresse_livraison">Adresse de livraison</string>
+    <string name="title_activity_commander_produit">Commander Produit</string>
+    <string name="select_commande">Séléctionner une commande</string>
+    <string name="quantite">Quantité de commande</string>
+    <string name="title_activity_ligne_commande">Lignes de commandes</string>
+    <string name="valider">Valider</string>
+</resources>
